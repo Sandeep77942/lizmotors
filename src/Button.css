@@ -1,0 +1,16 @@
+.pushable {
+  border-radius: 2px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline-offset: 4px;
+  margin-top: 6px;
+}
+.front {
+  display: block;
+  padding: 10px;
+  border-radius: 2px;
+  font-size: 0.8rem;
+  color: white;
+  background-color: #232b2b;
+}
